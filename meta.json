@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/dom96/zippy",
   "refs": [
-    "fatal: unable to access 'https://github.com/dom96/zippy/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/dom96/zippy/': SSL connection timeout",
     ""
   ],
   "heads": []
